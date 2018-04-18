@@ -21,7 +21,7 @@ public class Registration
 	@Test
 	public void testScript() throws InterruptedException, AWTException
 	{
-		//testMode();
+		testMode();
 		registration();
 		
 	}
